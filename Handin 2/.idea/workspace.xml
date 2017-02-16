@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7aca8c1-c2db-4961-b1ec-8889b73af04d" name="Default" comment="FIxed loop that adds optional answers">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.Documentation.odt#" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Handin 2/com/daniel/Quiz.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Documentation.odt" afterPath="$PROJECT_DIR$/Documentation.odt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Handin 2/com/daniel/Main.class" afterPath="$PROJECT_DIR$/out/production/Handin 2/com/daniel/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/daniel/Main.java" afterPath="$PROJECT_DIR$/src/com/daniel/Main.java" />
-    </list>
+    <list default="true" id="a7aca8c1-c2db-4961-b1ec-8889b73af04d" name="Default" comment="FIxed loop that adds optional answers" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
