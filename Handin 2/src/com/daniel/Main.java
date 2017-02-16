@@ -27,11 +27,11 @@ public class Main {
         questions.add(new question("What is peergrade?", "A peergrading service used by educational institutes", 7));
         questions.add(new question("What is an interface?", "A template that the classes whom implements it have to follow", 8));
         questions.add(new question("What is a long?", "A whole number that can hold a lot of data", 9));
-        questions.add(new question("What is ?", "", 10));
-        questions.add(new question("What is a?", "", 11));
-        questions.add(new question("What is a?", "", 12));
-        questions.add(new question("What is a?", "", 13));
-        questions.add(new question("What is a?", "", 14));
+        questions.add(new question("What is double?", "A decimal point number, smaller range than float", 10));
+        questions.add(new question("What is an ArrayList?", "A dynamic array, that expands and shrinks depending on the contents", 11));
+        questions.add(new question("What is a for loop?", "A loop that runs a set number of times", 12));
+        questions.add(new question("What is a while loop?", "A loop that runs as long as its condition is true", 13));
+        questions.add(new question("What is an if statement?", "A conditional that only runs the code if its condition checks out", 14));
         questions.add(new question("What is a?", "", 15));
         questions.add(new question("What is a?", "", 16));
         questions.add(new question("What is a?", "", 17));
@@ -50,7 +50,7 @@ public class Main {
         optionals.add(realQuestion);
 
         //Picking 3 random optional answers
-        for(int i = 0; i < 4; i++) {
+        for(int i = 0; i < 3; i++) {
             int choosen = (int)Math.floor(Math.random()*questions.size());
             optionals.add(questions.get(choosen));
             questions.remove(choosen);
