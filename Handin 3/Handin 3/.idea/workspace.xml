@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="575ada1c-1b4c-40ca-b035-1a5ce4c47fd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/daniel/subClass1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/daniel/subClass2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/daniel/subClass3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/daniel/subSubClass1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/daniel/subSubClass2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/daniel/subSubClass3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-    </list>
+    <list default="true" id="575ada1c-1b4c-40ca-b035-1a5ce4c47fd7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +19,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/daniel/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="234">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#531#537#0" expanded="true" />
                 <element signature="e#977#978#0" expanded="true" />
@@ -705,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/daniel/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="234">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="e#531#537#0" expanded="true" />
             <element signature="e#977#978#0" expanded="true" />
