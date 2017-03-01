@@ -7,7 +7,7 @@ public class Main {
 
     static Scanner sc = new Scanner(System.in);
 
-    static int level;
+
 
     public static cart shopCart = new cart();
 
@@ -16,7 +16,6 @@ public class Main {
         shopCart.add(new pants(10, "Pretty shit pair of pants"));
 
     }
-
 
 
 }

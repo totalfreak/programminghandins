@@ -1,8 +1,6 @@
 package com.daniel;
 
-import static com.daniel.Main.shopCart;
-
-public class pants extends shop implements item{
+public class shoes extends shop implements item{
     float price;
     String desc;
 
@@ -15,7 +13,7 @@ public class pants extends shop implements item{
     public void displayDesc() {
         System.out.println("Description: " + desc);
     }
-    pants(float tPrice, String tDesc) {
+    shoes(float tPrice, String tDesc) {
         price = tPrice;
         desc = tDesc;
     }
