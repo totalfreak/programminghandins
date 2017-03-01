@@ -1,13 +1,13 @@
 package com.daniel;
 
-import static com.daniel.Main.cart;
+import static com.daniel.Main.shopCart;
 
 public class pants extends shop implements item{
     float price;
     String desc;
     @Override
     public void add() {
-        cart.add(this);
+        shopCart.add(this);
     }
 
     @Override

@@ -7,13 +7,14 @@ public class Main {
 
     static Scanner sc = new Scanner(System.in);
 
-    static List<item> cart = new ArrayList<item>();
+    static int level;
+
+    public static cart shopCart = new cart();
 
 
     public static void main(String[] args) {
-        new pants(10, "Pretty shit pair of pants").add();
-        cart.get(0).displayDesc();
-        cart.get(0).displayPrice();
+        shopCart.add(new pants(10, "Pretty shit pair of pants"));
+
     }
 
 
