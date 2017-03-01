@@ -14,6 +14,8 @@ public class shop{
     public item pants = new pants(10, "Pretty shit pair of pants");
     public item shoes = new shirt(20, "A pretty shit shirt");
     public item shirt = new shoes(15, "A pretty shit pair of shoes");
+    public item soda = new shoes(15, "A pretty shit soda");
+    public item crisps = new shoes(15, "Pretty shit crisps");
     public List<item> listOfStuff = new ArrayList<item>();
 
     public cart cart = new cart();
@@ -29,6 +31,8 @@ public class shop{
                 listOfStuff.add(pants);
                 listOfStuff.add(shoes);
                 listOfStuff.add(shirt);
+                listOfStuff.add(soda);
+                listOfStuff.add(crisps);
                 int index = 1;
                 for(item i : listOfStuff) {
                     System.out.print(index+") ");
