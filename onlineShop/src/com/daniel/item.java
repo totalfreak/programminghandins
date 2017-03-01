@@ -1,7 +1,6 @@
 package com.daniel;
 
-public interface item {
-
-    void displayPrice();
-    void displayDesc();
+public abstract class item {
+    abstract void displayPrice();
+    abstract void displayDesc();
 }

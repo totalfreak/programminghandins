@@ -1,7 +1,7 @@
 package com.daniel;
 
-public class shoes extends shop implements item{
-    float price;
+public class shoes extends item{
+    public float price;
     String desc;
 
     @Override

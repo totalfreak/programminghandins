@@ -5,17 +5,10 @@ import java.util.Scanner;
 
 public class Main {
 
-    static Scanner sc = new Scanner(System.in);
-
-
-
-    public static cart shopCart = new cart();
-
+    static shop shop = new shop();
 
     public static void main(String[] args) {
-        shopCart.add(new pants(10, "Pretty shit pair of pants"));
-
+        shop.shopping();
     }
-
 
 }

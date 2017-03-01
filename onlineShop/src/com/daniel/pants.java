@@ -1,9 +1,7 @@
 package com.daniel;
 
-import static com.daniel.Main.shopCart;
-
-public class pants extends shop implements item{
-    float price;
+public class pants extends item{
+    public float price;
     String desc;
 
     @Override

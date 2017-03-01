@@ -15,4 +15,15 @@ public class cart {
     public void remove(item item) {
         contents.remove(item);
     }
+
+    public void viewCart(List<item> conts) {
+        for(item i : conts) {
+            i.displayDesc();
+            i.displayPrice();
+        }
+    }
+
+    public void checkout() {
+        System.out.print("Amount of items just bought: " + contents.size());
+    }
 }
