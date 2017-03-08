@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e5eff74-42a4-4d68-a0bf-a8457f664c07" name="Default" comment="" />
+    <list default="true" id="7e5eff74-42a4-4d68-a0bf-a8457f664c07" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Handin 2/.~lock.Documentation.odt#" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Handin 2/Documentation.odt" afterPath="$PROJECT_DIR$/../Handin 2/Documentation.odt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../handin5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../handin5/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,6 +78,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -107,12 +113,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../handin5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
